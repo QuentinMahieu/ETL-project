@@ -11,14 +11,18 @@ We want to be able to compare by country :
 
   - crime rate
   - prisons figures
-  
-We want to go a step further and collect informations about drug and murder crimes around the word :
 
-  - murder rates
+We want to collect informations about crimes in Australia to be more specifics:
+
+  - Most frequent crimes
+  - 
+  
+We want to go a step further and collect informations about drug seizures around the world :
+
   - drug rates
   - frequency of crimes
-  
-We would like to end this ETL project by collecting informations about the most famous criminals so far:
+
+We would like to end this ETL project by a small bonus. Collecting informations about the most famous criminals so far:
   
   - names
   - crimes
