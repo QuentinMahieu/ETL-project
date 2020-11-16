@@ -12,10 +12,12 @@ We want to be able to compare by country :
   - crime rate
   - prisons figures
 
-We want to collect informations about crimes in Australia to be more specifics:
+We want to collect informations about crimes & prisoners in Australia:
 
-  - Most frequent crimes
-  - 
+  - prisoners offenses
+  - crime types
+  - age and sex
+  - origin
   
 We want to go a step further and collect informations about drug seizures around the world :
 
