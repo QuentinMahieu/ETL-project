@@ -6,7 +6,7 @@
 
 # Credentials/keys
 
-/credentials
+credentials/
 
 api_keys.py
 
