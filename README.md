@@ -1,26 +1,17 @@
 # ETL Project
 
-## How SAFE is your country
+## How SAFE are you?
 
 We hear everyday on the news different types of crimes happening. 
 But what is happening in your country?
 What are the facts and how safe are we walking at night nowadays?
+Can we find some explanations for the high or low crime rates?
 
-The project consist by collecting criminal figures all around the world, Australia and the US that has the highest imprisonnement rate.
-We would ending by focussing on drug seizure all around.
-We want to be able to compare by country :
+The project consist by collecting the crime rate and prison population figures for every country on the world.
+We want to collect country informations such as GDP, size, latitude, longitude, density, med age, fertility and hapiness.
+Once collected we could compare the countries to find a pattern.
 
-  - crime rate
-  - prisons figures
+We also want to collect crime informations more specifically for Australia
 
-We want to collect informations about crimes & prisoners in Australia:
-
-  - prisoners offenses
-  - crime types
-  - age and sex
-  - origin
-  
-We want to go a step further and collect informations about drug seizures around the world :
-
-  - drug rates
-  - frequency of crimes
+As a bonus, we will collect drug seizure informations for every coutry. 
+We would like to have an idea how big this crime is in every country.
