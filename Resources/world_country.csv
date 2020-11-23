@@ -51,7 +51,6 @@ CO,4.570868,-74.297333,Colombia,VA,37.431573,-78.656894,Virginia
 CR,9.748917,-83.753428,Costa Rica,VT,44.558803,-72.577841,Vermont
 CU,21.521757,-77.781167,Cuba,WA,47.751074,-120.740139,Washington
 CV,16.002082,-24.013197,Cape Verde,WI,43.78444,-88.787868,Wisconsin
-CV,16.002082,-24.013197,Cabo Verde,WI,43.78444,-88.787868,Wisconsin
 CW,12.116667,-68.933333, Curacao
 CX,-10.447525,105.690449,Christmas Island,WV,38.597626,-80.454903,West Virginia
 CY,35.126413,33.429859,Cyprus,WY,43.075968,-107.290284,Wyoming
@@ -74,11 +73,9 @@ FJ,-16.578193,179.414413,Fiji,,,,
 FK,-51.796253,-59.523613,Falkland Islands,,,,
 FM,7.425554,150.550812,Micronesia,,,,
 FO,61.892635,-6.911806,Faroe Islands,,,,
-FO,61.892635,-6.911806,Faeroe Islands,,,,
 FR,46.227638,2.213749,France,,,,
 GA,-0.803689,11.609444,Gabon,,,,
 GB,55.378051,-3.435973,United Kingdom (England),,,,
-GB,55.378051,-3.435973,England,,,,
 GD,12.262776,-61.604171,Grenada,,,,
 GE,42.315407,43.356892,Georgia,,,,
 GF,3.933889,-53.125782,French Guiana,,,,
@@ -150,7 +147,6 @@ ML,17.570692,-3.996166,Mali,,,,
 MM,21.913965,95.956223,Myanmar,,,,
 MN,46.862496,103.846656,Mongolia,,,,
 MO,22.198745,113.543873,Macao,,,,
-MO,22.198745,113.543873,Macau,,,,
 MP,17.33083,145.38469,Northern Mariana Islands,,,,
 MQ,14.641528,-61.024174,Martinique,,,,
 MR,21.00789,-10.940835,Mauritania,,,,
@@ -214,7 +210,6 @@ SS,	4.859363,31.571251,South Sudan,,,,
 ST,0.18636,6.613081,São Tomé and Príncipe,,,,
 SV,13.794185,-88.89653,El Salvador,,,,
 SX,18.066667,-63.05, Sint Maarten,,,,
-SX,18.066667,-63.05, Saint Martin,,,,
 SY,34.802075,38.996815,Syria,,,,
 SZ,-26.522503,31.465866,Swaziland,,,,
 SZW,-26.522503,31.465866,Eswatini,,,,
@@ -240,7 +235,6 @@ US,37.09024,-95.712891,United States,,,,
 UY,-32.522779,-55.765835,Uruguay,,,,
 UZ,41.377491,64.585262,Uzbekistan,,,,
 VA,41.902916,12.453389,Vatican City,,,,
-VA,41.902916,12.453389,Holy See,,,,
 VC,12.984305,-61.287228,Saint Vincent and the Grenadines,,,,
 VE,6.42375,-66.58973,Venezuela,,,,
 VG,18.420695,-64.639968,British Virgin Islands,,,,
