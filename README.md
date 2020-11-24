@@ -14,4 +14,4 @@ Once collected we could compare the countries to find a pattern.
 We also want to collect crime informations more specifically for Australia
 
 As a bonus, we will collect drug seizure informations for every coutry. 
-We would like to have an idea how big this crime is in every country.
+We would like to have an idea how import crimes are in every country.

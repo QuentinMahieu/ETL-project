@@ -19,7 +19,7 @@ def country_codes(df,name_column):
     import jellyfish
     import pandas as pd
     #take the countries df
-    file = '../Data/country_names.csv'
+    file = '../SQL/Data/country_names.csv'
     country = pd.read_csv(file,keep_default_na=False)
     names = replace(country['country'])
     #take the df and look for the country column
@@ -35,9 +35,9 @@ def country_codes(df,name_column):
                     c in i) & (c.split()[0] == i.split()[0])]
                 df.country_code[i] = country['code'][index[0]]
             elif c in ['channel islands','united kingdom']:
-                df.country_code[i] = 'UK'
+                df.country_code[i] = 'GB'
             elif c in ['united kingdom']:
-                df.country_code[i] = 'UK'
+                df.country_code[i] = 'GB'
             elif c in ['virgin islands united kingdom']:
                 df.country_code[i] = 'VG'
             elif c in ['virgin islands usa']:
