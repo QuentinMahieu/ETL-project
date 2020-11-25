@@ -15,3 +15,9 @@ We also want to collect crime informations more specifically for Australia
 
 As a bonus, we will collect drug seizure informations for every coutry. 
 We would like to have an idea how import crimes are in every country.
+
+Contributors :
+
+Quentin Mahieu
+Sherry Javed
+Kevin Truong

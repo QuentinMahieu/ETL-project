@@ -87,4 +87,9 @@ The main script contains 2 ways of querying:
         df = pd.read_sql_query(stm,con)
 
 
+Contributors:
+
+Quentin Mahieu
+Sherry Javed
+Kevin Truong
 
