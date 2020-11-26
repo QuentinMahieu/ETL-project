@@ -2,7 +2,7 @@
 
 ## How SAFE are you?
 
-We hear everyday on the news different types of crimes happening. 
+We hear everyday on the news different types of crimes happening around the world. 
 But what is happening in your country?
 What are the facts and how safe are we walking at night nowadays?
 Can we find some explanations for the high or low crime rates?
